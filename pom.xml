@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>24</maven.compiler.release>
-        <exec.mainClass>lk.ijse.cmjdpos.Cmjdpos</exec.mainClass>
+        <exec.mainClass>lk.ijse.cmjdpos.App</exec.mainClass>
     </properties>
     <dependencies>
         
@@ -35,4 +35,5 @@
         </dependency>
     
     </dependencies>
+    
 </project>
